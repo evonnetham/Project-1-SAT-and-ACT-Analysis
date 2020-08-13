@@ -12,6 +12,7 @@ In 2018 alone, over 2 million students took the SAT, an increase of 25% over the
 
 As part of a team that tracks statewide participation, this project seeks to understand the factors that influence the changes in SAT and ACT participation rates. The goal of this study is to find out how can we maximize the positive effect of the investment to bring up the participation rate in a chosen state.
 
+
 Citation:
 
 https://magoosh.com/hs/sat/2016/new-sat-vs-old-sat-format/
@@ -19,11 +20,15 @@ https://www.edweek.org/ew/articles/2018/10/31/sat-scores-rise-as-number-of-test-
 https://research.collegeboard.org/programs/sat/data
 https://www.collegeboard.org/releases/2018/more-than-2-million-students-in-class-of-2018-took-sat-highest-ever
 
+Keyword(s): Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
+
 ## Executive Summary
 
 The SAT is a standardized test in the US and is made up of Evidence-Based Reading and Writing and Math components, each with a maximum score of 800, which is added up to give a total score with a maximum of 1600. On the other hand the ACT is a standardized test in the US and is made up of English, Math, Reading and Science components, scored from 1 to 36. A composite score is taken from the average score of all four components.
 
-By finding out how can we maximize the positive effect of the investment to bring up the participation rate, we will be looking at the aggregate SAT and ACT scores and participation rates from each state in the United States through data cleaning, visualisation and examining. 
+By finding out how can we maximize the positive effect of the investment to bring up the participation rate, we will be looking at the aggregate SAT and ACT scores and participation rates from each state in the United States through data cleaning. 
+Data is then analysed by displaying both in tabular form as well as in Histograms, Scatter Plots, and Box Plots from Python's Seaborn/Matplotlib visualization libraries. Through the use of these displays, assembled with custom-built functions, as well as additional supporting data from unique insight we've extracted.
+
 
 ## Content
 
