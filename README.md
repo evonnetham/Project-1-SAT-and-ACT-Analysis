@@ -20,7 +20,7 @@ https://www.edweek.org/ew/articles/2018/10/31/sat-scores-rise-as-number-of-test-
 https://research.collegeboard.org/programs/sat/data
 https://www.collegeboard.org/releases/2018/more-than-2-million-students-in-class-of-2018-took-sat-highest-ever
 
-Keyword(s): Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
+Tools and Libraries Used: Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
 
 ## Executive Summary
 
